@@ -1,0 +1,73 @@
+guideline,title,title_year,analysis_set,lecture_threshold_man,manuscript_threshold_man,threshold_source_class
+breast_2022,科学的根拠に基づく乳癌診療ガイドライン2022年版,2022,main analysis set,50.0,50.0,写在指南里
+jcs_2022_achd_postop,2022年改訂版 先天性心疾患術後遠隔期の管理・侵襲的治療に関するガイドライン,2022,main analysis set,50,50,取自发行学会的规定
+jcs_2022_arrhythmia_risk,2022年改訂版 不整脈の診断とリスク評価に関するガイドライン,2022,main analysis set,50,50,取自发行学会的规定
+jcs_2022_noncardiac_surgery,2022年改訂版 非心臓手術における合併心疾患の評価と管理に関するガイドライン,2022,main analysis set,50,50,取自发行学会的规定
+jcs_2022_pad,2022年改訂版 末梢動脈疾患ガイドライン,2022,main analysis set,50,50,取自发行学会的规定
+jcs_2022_stable_cad_fu,2022年JCSガイドラインフォーカスアップデート版 安定冠動脈疾患の診断と治療,2022,main analysis set,50,50,取自发行学会的规定
+jcs_2023_mcs,2023年JCS/JSCVS/JCC/CVIT ガイドライン フォーカスアップデート版 PCPS/ECMO/循環補助用心内留置型 ポンプカテーテルの適応・操作,2023,main analysis set,50,50,取自发行学会的规定
+jcs_2023_myocarditis,2023年改訂版 心筋炎の診断・治療に関するガイドライン,2023,main analysis set,50,50,取自发行学会的规定
+jcs_2023_sleep_apnea,2023年改訂版 循環器領域における睡眠呼吸障害の診断・治療に関するガイドライン,2023,main analysis set,50,50,取自发行学会的规定
+jcs_2023_vsa_cmd,2023年JCS/CVIT/JCC ガイドライン フォーカスアップデート版 冠攣縮性狭心症と冠微小循環障害の診断と治療,2023,main analysis set,50,50,取自发行学会的规定
+jcs_2024_diversity,2024年改訂版 多様性に配慮した循環器診療ガイドライン,2024,main analysis set,50,50,取自发行学会的规定
+jcs_2024_genetic_testing,2024年改訂版 心臓血管疾患における遺伝学的検査と遺伝カウンセリングに関するガイドライン,2024,main analysis set,50,50,取自发行学会的规定
+jcs_2025_achd,2025年改訂版 成人先天性心疾患診療ガイドライン,2025,main analysis set,50,50,取自发行学会的规定
+jcs_2025_heart_failure,2025年改訂版 心不全診療ガイドライン,2025,main analysis set,50,50,取自发行学会的规定
+jcs_2025_heart_transplant,2025年改訂版 心臓移植に関するガイドライン,2025,main analysis set,50,50,取自发行学会的规定
+jcs_2025_pad_fu,2025年JCS/JSVS ガイドラインフォーカスアップデート版 末梢動脈疾患,2025,main analysis set,50,50,取自发行学会的规定
+jcs_2025_pte_ph,2025 年改訂版肺血栓塞栓症・深部静脈血栓症および肺高血圧症に関するガイドライン,2025,main analysis set,50,50,取自发行学会的规定
+jcs_2025_school_screening,2025年JCS/JSPCCS ガイドラインフォーカスアップデート版 学校心臓検診,2025,main analysis set,50,50,取自发行学会的规定
+jcs_arrhythmia_2024,2024年 JCS/JHRS ガイドライン フォーカスアップデート版 不整脈治療,2024,main analysis set,50,50,取自发行学会的规定
+jcs_cad_prev_2023,2023年改訂版 冠動脈疾患の一次予防に関する診療ガイドライン,2023,main analysis set,50,50,取自发行学会的规定
+jds_dm_2024,糖尿病診療ガイドライン2024,2024,main analysis set,50.0,50.0,写在指南里
+lung_2022,肺癌診療ガイドライン2022年版,2022,main analysis set,50,50,取自发行学会的规定
+lung_2023,肺癌診療ガイドライン2023年版,2023,main analysis set,50,50,取自发行学会的规定
+lung_2024,肺癌診療ガイドライン2024年版,2024,main analysis set,50,50,取自发行学会的规定
+s008_2023_hem_genome,造血器腫瘍ゲノム検査ガイドライン 2023年度版,2023,period-inferred layer,50.0,50.0,写在指南里
+s029_2023_acne_rosacea,尋常性痤瘡・酒皶治療ガイドライン2023,2023,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2023_dihs,薬剤性過敏症症候群診療ガイドライン2023,2023,period-inferred layer,50,50,门槛不清（学会文件不一致）
+s029_2023_hailey_hailey,家族性良性慢性天疱瘡診療ガイドライン2023,2023,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2023_hyperhidrosis,原発性局所多汗症診療ガイドライン2023年改訂版（2023年12月一部改訂）,2023,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2024_alopecia_areata,円形脱毛症診療ガイドライン2024,2024,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2024_atopic_dermatitis,アトピー性皮膚炎診療ガイドライン2024年版,2024,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2024_tuberous_sclerosis,結節性硬化症診療ガイドライン2024,2024,period-inferred layer,50,50,门槛不清（学会文件不一致）
+s029_2025_cutaneous_lymphoma,皮膚リンパ腫診療ガイドライン2025（皮膚がん診療ガイドライン第4版）,2025,main analysis set,50.0,50.0,写在指南里
+s029_2025_fungal,皮膚真菌診療ガイドライン2025,2025,period-inferred layer,50,50,门槛不清（学会文件不一致）
+s029_2025_herpes_zoster,帯状疱疹診療ガイドライン2025,2025,period-inferred layer,50,50,门槛不清（学会文件不一致）
+s029_2025_porphyria,ポルフィリン症診療ガイドライン2025,2025,main analysis set,50,50,门槛不清（学会文件不一致）
+s029_2025_vitiligo,尋常性白斑診療ガイドライン第2 版2025,2025,period-inferred layer,50,50,门槛不清（学会文件不一致）
+s030_2022_adrenal_incidentaloma,内分泌非活性副腎腫瘍診療ガイドライン 2022年版,2022,period-inferred layer,50.0,50.0,写在指南里
+s030_2022_urologic_trauma,泌尿器外傷診療ガイドライン 2022年版,2022,period-inferred layer,50.0,50.0,写在指南里
+s030_2023_hematuria,血尿診断ガイドライン2023,2023,main analysis set,50,50,取自发行学会的规定
+s030_2023_periop_infection,泌尿器科領域における周術期感染予防ガイドライン2023,2023,period-inferred layer,50.0,50.0,写在指南里
+s030_2023_prostate_cancer,前立腺癌診療ガイドライン 2023年版,2023,period-inferred layer,50.0,50.0,写在指南里
+s030_2023_tsc_aml,結節性硬化症に伴う腎血管筋脂肪腫診療ガイドライン 2023年版,2023,period-inferred layer,50.0,50.0,写在指南里
+s030_2023_upper_tract_uc,腎盂・尿管癌診療ガイドライン 2023年版,2023,main analysis set,50.0,50.0,写在指南里
+s030_2023_urolithiasis,尿路結石症診療ガイドライン 第3版 2023年版,2023,period-inferred layer,50.0,50.0,写在指南里
+s030_2024_male_infertility,男性不妊症診療ガイドライン 2024年版,2024,period-inferred layer,50.0,50.0,写在指南里
+s030_2024_testicular_cancer,精巣癌診療ガイドライン 2024年版,2024,period-inferred layer,50.0,50.0,写在指南里
+s030_2024_urethral_stricture,尿道狭窄症診療ガイドライン 2024年版,2024,period-inferred layer,50.0,50.0,写在指南里
+s030_2025_prostate_screening,前立腺がん検診ガイドライン 2025年版,2025,period-inferred layer,50.0,50.0,写在指南里
+s042_2022_anaphylaxis,アナフィラキシーガイドライン2022,2022,main analysis set,50.0,50.0,写在指南里
+s047_2022_brain_tumor_pediatric,脳腫瘍診療ガイドライン 小児脳腫瘍編 2022年版,2022,main analysis set,100.0,50.0,写在指南里
+s047_2024_brain_tumor_adult,2024年版 脳腫瘍診療ガイドライン 成人脳腫瘍編,2024,main analysis set,100.0,50.0,写在指南里
+s051_2023_elderly_dm,高齢者糖尿病診療ガイドライン2023,2023,main analysis set,50.0,50.0,写在指南里
+s051_2024_pediatric_dm,小児・思春期糖尿病コンセンサス・ガイドライン2024,2024,main analysis set,50.0,50.0,写在指南里
+s053_2022_mg_lems,重症筋無力症／ランバート・イートン筋無力症候群診療ガイドライン2022,2022,main analysis set,50.0,50.0,写在指南里
+s053_2023_als,筋萎縮性側索硬化症（ALS）診療ガイドライン2023,2023,main analysis set,50.0,50.0,写在指南里
+s053_2023_ms_nmosd,多発性硬化症・視神経脊髄炎スペクトラム障害診療ガイドライン2023,2023,main analysis set,50.0,50.0,写在指南里
+s053_2024_cidp_mmn,慢性炎症性脱髄性多発根ニューロパチー、多巣性運動ニューロパチー診療ガイドライン2024,2024,main analysis set,50.0,50.0,写在指南里
+s053_2024_gbs,ギラン・バレー症候群，フィッシャー症候群診療ガイドライン2024,2024,main analysis set,50.0,50.0,写在指南里
+s053_2025_ham,HTLV-1関連脊髄症（HAM）診療ガイドライン2025,2025,main analysis set,50.0,50.0,写在指南里
+s057_2022_copd,COPD(慢性閉塞性肺疾患)診断と治療のためのガイドライン2022〔第6版〕,2022,period-inferred layer,50.0,50.0,写在指南里
+s057_2022_pap,肺胞蛋白症診療ガイドライン2022,2022,period-inferred layer,50.0,50.0,写在指南里
+s057_2024_adult_pneumonia,成人肺炎診療ガイドライン2024,2024,period-inferred layer,50.0,50.0,写在指南里
+s057_2025_ph_lung_disease,肺病変を有する肺高血圧症診療ガイドライン2025,2025,period-inferred layer,50.0,50.0,写在指南里
+s058_2023_ckd,エビデンスに基づくCKD診療ガイドライン2023,2023,main analysis set,50,50,取自发行学会的规定
+s077_2024_eus_fna,EUS-FNAガイドライン,2024,period-inferred layer,50.0,50.0,写在指南里
+s077_2024_ibd_endoscopy,炎症性腸疾患内視鏡診療ガイドライン,2024,period-inferred layer,50.0,50.0,写在指南里
+s077_2024_nonvariceal_bleeding,非静脈瘤性上部消化管出血における内視鏡診療ガイドライン（第2版）,2024,period-inferred layer,50.0,50.0,写在指南里
+s078_2022_chemo_nephrotoxicity,がん薬物療法時の腎障害診療ガイドライン2022,2022,main analysis set,50,50,取自发行学会的规定
+s078_2022_tumor_agnostic_genome,成人・小児進行固形がんにおける臓器横断的ゲノム診療のガイドライン第3版,2022,period-inferred layer,50.0,50.0,写在指南里
+s107_2023_extravasation,がん薬物療法に伴う血管外漏出に関する合同ガイドライン2023年版 第3版,2023,main analysis set,50.0,50.0,写在指南里
+s119_2025_lung_cancer,肺癌診療ガイドライン―胸膜中皮腫・胸腺腫瘍含む― 2025年版,2025,main analysis set,50,50,取自发行学会的规定
